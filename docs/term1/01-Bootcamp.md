@@ -3,8 +3,8 @@ hide:
     - toc
 ---
 
-![1_MyFightPoster](../images/1Term/1_Bootcamp/1_MyFightPoster.JPG)
-![2_MyFightExplanation](../images/1Term/1_Bootcamp/2_MyFightExplanation.jpg)
+![1_MyFight](../images/1Term/1_Bootcamp/1_MyFight.png)
+![2_Vision](../images/1Term/1_Bootcamp/2_Vision.jpg)
 
 # Bootcamp
 
