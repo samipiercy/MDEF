@@ -3,9 +3,13 @@ hide:
     - toc
 ---
 
-![1_MyFight](../images/1Term/1_Bootcamp/1_MyFight.png)
-![2_Vision](../images/1Term/1_Bootcamp/2_Vision.jpg)
+
 
 # Bootcamp
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Bootcamp assignments 10.7.2022
+
+![1_MyFight](../images/1Term/1_Bootcamp/1_MyFight.png)
+![2_Vision](../images/1Term/1_Bootcamp/2_Vision.jpg)
+![3_ProfIdentity](../images/1Term/1_Bootcamp/3_ProfIdentity.jpg)
+![4_PersonalDev](../images/1Term/1_Bootcamp/4_PersonalDev.jpg)
