@@ -6,9 +6,6 @@ hide:
 
 
 # Roles of Prototyping
-
-Bootcamp assignments 10.7.2022
-
 ![1_RolesofPrototyping](../images/1Term/2_DesignStudio/1_RolesofPrototyping.png)
 
 
