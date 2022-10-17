@@ -10,4 +10,4 @@ hide:
 
 
 ### Personal Workspace
-![2_PersonalWorkspace](../images/1Term/2_DesignStudio/2_PersonalWorkspace.png)
+![PersonalWorkspace](../images/1Term/2_DesignStudio/PersonalWorkspace.svg)
