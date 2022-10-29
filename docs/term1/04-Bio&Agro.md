@@ -10,6 +10,8 @@ hide:
 
 ![bioplastic2](../images/1Term/4_Bio%26Agro/bioplastic2.jpg)
 
+These images show the before and after of making bioplastics using glycerol. We tested the materials in different thicknesses, as well as adding apple peels to some of the mixture. 
+
 ### Agar & Microscope Photos
 Garbage bacteria
 ![garbageagar](../images/1Term/4_Bio%26Agro/garbageagar.jpg)
@@ -17,6 +19,7 @@ Garbage bacteria
 Ovary slice
 ![ovary](../images/1Term/4_Bio%26Agro/ovary.jpg)
 
+The first photo is agar that was rubbed against a garbage bag to see what microorganisms would be grown from touching that surface. The second photo is a view of a ovary slice through a microscope. Both were interseting to see the intricacies and details close up through isolation and microscopic views. 
 
 ###   Article
 The article I chose is from The Guardian, Geddes (2022), “Next pandemic may come from melting glaciers, new data shows.” In summary it is about how melting glaciers are exposing ancient viruses. It suggests that as these viruses defrost, they could potentially infect surrounding wildlife causing the spread of infectious diseases or start another pandemic. 
