@@ -14,9 +14,11 @@ These images show the before and after of making bioplastics using glycerol. We 
 
 ### Agar & Microscope Photos
 Garbage bacteria
+
 ![garbageagar](../images/1Term/4_Bio%26Agro/garbageagar.jpg)
 
 Ovary slice
+
 ![ovary](../images/1Term/4_Bio%26Agro/ovary.jpg)
 
 The first photo is agar that was rubbed against a garbage bag to see what microorganisms would be grown from touching that surface. The second photo is a view of a ovary slice through a microscope. Both were interseting to see the intricacies and details close up through isolation and microscopic views. 
