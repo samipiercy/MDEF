@@ -1,5 +1,5 @@
 ## Hi, I'm Sami
 
-![](images/coverphoto.jpg)
+![](images/Cover2.jpg)
 
-Welcome to my site documenting my journey in Master in Design for Emergent Futures.
+Welcome to my site documenting my journey in the Master of Design for Emergent Futures.
