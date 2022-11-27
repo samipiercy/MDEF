@@ -5,18 +5,21 @@ hide:
 
 # Tech Beyond the Myth
 
-This week we learned about the right to repair, black boxes, how things are made, and how we can combine code with machines. We started with a forensic report of a broken item, and followed with creating an Almost Useful Machine. Below are presentations of each project followed by my reflection. 
+This seminar we learned about the right to repair, black boxes, how things are made, and how we can combine code with machines. We started with a forensic report of a broken item, and followed with creating an Almost Useful Machine. Below are presentations of each project followed by my reflection. 
 
 ### Forensic Report
 
-We began the week choosing an item that had stopped working to disassemble. Our item was a Sports Blender by Electrolux, which was surprisingly difficult to take a part. Our findings can be found in the link below.
 ![FReport.JPG](../images/1Term/6_TechBeyondMyth/FReport.JPG)
-[Full Report](https://hackmd.io/s/HJBEvhPBo)
+
+We began the first week choosing an item that had stopped working to disassemble. Our item was a Sports Blender by Electrolux, which was surprisingly difficult to take a part. While disassembling the casing, we came across a single screw (spanner slotted) which is typically used to prevent tampering. This tiny screw made it impossible to take a part the casing, and it resulted in us using a drill and saw to break the base open. We also learned that this particular blender failed because there was a nut bolt piece that had misaligned due to overheating of the PP material encasing it. Although the item was filled with metal and copper parts, this one area of plastic made the item fail. This material choice may be because they intended the blender to be used less frequent because it was designed for a single serving. Older and more robust blenders have the intention of serving larger quantities, so glass or harder materials are used. This item seemed to be targetting individuals who wanted a cheaper and quick solution to make protein shakes or smoothies, but in the end the item was designed to be short lived and unable to be repaired. 
+
+Our Foresnic Report can be found here:
+[Forensic Report](https://hackmd.io/s/HJBEvhPBo)
 
 
 ### Distracted Timer - Almost Useful Machine
 
-After learning about motors from our broken blender, we used a windshield wiper motor to create a distracted timer. Using Arduino and sensors, we were able to make our almost useful machine. 
+After learning about motors from our broken blender, we used a windshield wiper motor to create a distracted timer. Using Arduino and sensors, we were able to make our almost useful machine. Initially we were playing around with how to make the motor turn different dirrections and how we could make it feel random. We coded the amount of time it would turn a direction and also played with a manual switch which would reverse the energy, and make the motor reverse. We followed with brainstorming concepts and ideas that were interesting to us as a group and landed on making something that would be annoying to us. The initial timer was able to change directions based on the code, however we added the sensor element to create more of a random and personification of the timer itself. 
 
 [Presentation](https://www.canva.com/design/DAFSGssYzEA/FqJPNQMS33QH5i-fKP5DVg/view?utm_content=DAFSGssYzEA&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
