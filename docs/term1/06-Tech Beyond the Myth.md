@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Living With Your Own Ideas
+# Tech Beyond the Myth
 
 
 *What did you make? And why did it matter?*
