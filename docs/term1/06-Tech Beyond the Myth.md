@@ -21,6 +21,7 @@ Our Foresnic Report can be found here:
 
 After learning about motors from our broken blender, we used a windshield wiper motor to create a distracted timer. Using Arduino and sensors, we were able to make our almost useful machine. Initially we were playing around with how to make the motor turn different dirrections and how we could make it feel random. We coded the amount of time it would turn a direction and also played with a manual switch which would reverse the energy, and make the motor reverse. We followed with brainstorming concepts and ideas that were interesting to us as a group and landed on making something that would be annoying to us. The initial timer was able to change directions based on the code, however we added the sensor element to create more of a random and personification of the timer itself. 
 
+The presentation can be found here:
 [Presentation](https://www.canva.com/design/DAFSGssYzEA/FqJPNQMS33QH5i-fKP5DVg/view?utm_content=DAFSGssYzEA&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 Video
