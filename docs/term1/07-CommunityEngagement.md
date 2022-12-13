@@ -21,13 +21,13 @@ Creative community:
 I am interested in working with local communities who work with people that have been marginalized or have difficulty meeting their basic needs. 
 
 Context:
-Each city has their own social dynamics that contribute to the wellbeing of specific communities. Where it is by race, gender, or socio-economic status, there is always an imbalance in opportunity and services for specific groups of people. Coming from Seattle where there is an increasing gap of rich vs. poor, gentrification, and a growing population of people experiencing homelessness, I am curious to know in Barcelona what the dynamics and situations are here. 
+Each city has their own social dynamics that contribute to the wellbeing of specific communities. Whether it is by race, gender, or socio-economic status, there is an imbalance of opportunity and services for specific groups of people. Coming from Seattle where there is an increasing gap of rich vs. poor, gentrification, and a growing population of people experiencing homelessness, I am curious to know in Barcelona what the dynamics and situations are here. 
 
 Current situation:
 From my current and limited understanding, there is a large population of migrant workers and refugees. There are marginalized groups of people based on their race, socio-economic status, and legal documentation. There are people living on the street but also services addressing food and shelter in their own ways. It seems that there is community involvement in many areas, but the communication between services is still limited as each group is addressing issues in their own way. 
 
 Engagement & Limits:
-Takes time to engage and understand the current situation and organizations. I am an outsider and come with my own biases, understandings, and interpretations. I understand that I will make my own judgments before fully understanding the whole situation, and need to be aware of those. 
+Takes time to engage and understand the current situation and organizations. I am an outsider and come with my own biases, understandings, and interpretations. I understand that I will make my own judgements before fully understanding the whole situation, and need to be aware of those. 
 
 Theory of change:
 Connecting services to one another and drawing bridges between different organizations could help to make sure there are no gaps of people being reached out to or addressed. It also could help to create ways of collaboration between multiple organizations. 
