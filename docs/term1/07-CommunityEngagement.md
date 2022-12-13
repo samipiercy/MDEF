@@ -11,6 +11,9 @@ hide:
 This seminar for Community Engagement was helpful to see frameworks and examples for how to successfully facilitate workshops and approach communities to design with. It was helpful to think about how to practically work with stakeholders that have their own motivations and maneuver between a variety of perspectives and needs within a community project. We did a hypothetical role playing of stake holders that would work with a local building and residency. Acting out how each role would interact with each other, and understanding each role's needs and motivations. I enjoyed visiting local places in Poblenou that have created open spaces for artists and the surrounding neighborhood to collaborate. Two of the places we visited were working with food waste and biomaterials to make products, education, and designs. Poblenou has an interesting dynamic with the gentrification of tech, it was good to see artist spaces and organizations that are working to keep historical buildlings preserved and think about what role artists play in that preservation. 
 
 
+
+
+
 ### Intervention Outline Community Framework
 Exercise on engaging with local community: 
 
@@ -50,5 +53,5 @@ Samples from biomaterial lab and fabrication studio
 Biomaterial signage made from food, work done by @cibico.barcelona
 ![IMG_4205](../images/1Term/7_CommunityEngagement/IMG_4205.jpg)
 
-Artist residency and space called La Escocesa
+Artist residency and space called La Clandestina
 ![IMG_4207](../images/1Term/7_CommunityEngagement/IMG_4207.jpg)
