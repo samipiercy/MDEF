@@ -60,12 +60,12 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to light mode 
-      
+
     primary: teal
     accent: amber
   font:
     # See available fonts at https://fonts.google.com/
-    text: Roboto
+    text: Raleway
     code: Cutive Mono
   icon:
     logo: material/memory
