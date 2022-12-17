@@ -54,7 +54,7 @@ theme:
     accent: amber
   font:
     # See available fonts at https://fonts.google.com/
-    text: Raleway
+    text: Montserrat
     code: Cutive Mono
   icon:
     logo: material/memory
