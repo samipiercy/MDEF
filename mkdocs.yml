@@ -50,7 +50,7 @@ theme:
   palette: 
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     scheme: slate
-    primary: teal
+    primary: blue grey
     accent: amber
   font:
     # See available fonts at https://fonts.google.com/
