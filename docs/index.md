@@ -1,4 +1,4 @@
-## Hi, I'm Sami
+
 
 ![](images/Cover2.jpg)
 
