@@ -53,7 +53,7 @@ I plan to map my interests and connections as they continue to evolve. I will ph
 
 - Social media presence to document and show process and journey:
 
-I will use social media as a way to document and share my MDEF journey through stories, reels and posts. I would like to eventually build an identity that is accessible to past colleagues and designers as a way to engage with current industry, but that also shows my work and development. 
+I will use social media as a way to document and share my MDEF journey. I would like to eventually build an identity that is accessible to past colleagues and designers as a way to engage with current industry, but that also shows my work and development. 
 
 
 ### Collective Design Intervention
