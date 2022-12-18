@@ -37,18 +37,22 @@ Below are the communication strategies I am planning for:
 
 Open Design Processes:
 
-- Understand your audience 
+- Understand your audience:
+
 As a first step, I am looking to continue interviewing people that may relate to my interests and project, through faculty and MDEF connections. I want to understand what is currently happening in Barcelona, past projects, and learn from people working in similar fields. I am also engaging in local events that relate to waste and volunteering with current groups providing services for underserved communities. 
 
 - Experiential prototypes & compiling material samples: 
+
 As part of my process I will start to experiment with materials and resources that I find interesting and take photos and videos of my process. Currently I am interested in craft and sustainable materials. There is a lot of biomaterial research that I am open to exploring, as it is a new area of interest for me. I am also interested in textiles and will start my own personal textile project to get into a creative mindset that is not pressured by school or income, but could spark future ideas.
 
 Communication Medium:
 
-- Graphics or drawings to understand the process and concept
+- Graphics or drawings to understand the process and concept:
+
 I plan to map my interests and connections as they continue to evolve. I will physically draw out these maps to have a visual representation of my thought process.
 
-- Social media presence to document and show process and journey
+- Social media presence to document and show process and journey:
+
 I will use social media as a way to document and share my MDEF journey through stories, reels and posts. I would like to eventually build an identity that is accessible to past colleagues and designers as a way to engage with current industry, but that also shows my work and development. 
 
 
