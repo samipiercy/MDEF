@@ -48,3 +48,17 @@ I plan to map my interests and connections as they continue to evolve. I will ph
 
 - Social media presence to document and show process and journey
 I will use social media as a way to document and share my MDEF journey through stories, reels and posts. I would like to eventually build an identity that is accessible to past colleagues and designers as a way to engage with current industry, but that also shows my work and development. 
+
+
+### Collective Design Intervention
+
+As the Hack the Supply Chain group we made our first intervention by cooking a dinner together using collected food waste scraps. This started because we were curious about why we value parts of a vegetable or fruit as “waste” and wondered what we could create out of this so-called “waste.” For a week we each saved up our peels, stale bread, wilting fruits and vegetables. 
+
+We each picked a recipe to make and cooked them simultaneously. By cooking together we were able to improvise, and collaborate on the recipes together. Some dishes followed an exact recipe, while others changed depending on what ingredients we had and the motivation to use as much of it as possible. We were all surprised at how much food we ended up making and that we were able to use almost everything we brought. We were also surprised with how good everything looked and tasted.
+
+This first intervention was a good way to start testing out a question. Even though we weren’t all interested in food specifically, it was something universal that could be related to by everyone. It helped to bring up other questions that relate to supply chains and society’s conditioning. Such as, how we were taught about what to throw away and what to keep, what expiration dates really mean, and how packaging could be improved.  
+
+Here are images from before, and after cooking:
+![IMG_4079](../images/1Term/2_DesignStudio/IMG_4079.jpg)
+
+![IMG_3584](../images/1Term/2_DesignStudio/IMG_3584.jpg)
