@@ -68,3 +68,5 @@ Here are images from before, and after cooking:
 ![IMG_4079](../images/1Term/2_DesignStudio/IMG_4079.jpg)
 
 ![IMG_3584](../images/1Term/2_DesignStudio/IMG_3584.jpg)
+
+![WasteDinnerRecipes](../images/1Term/2_DesignStudio/WasteDinnerRecipes.jpg)
