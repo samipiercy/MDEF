@@ -56,7 +56,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term2/09-BillionSeconds/</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/term2/09-DesignStudioII/</loc>
+         <lastmod>2023-01-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term2/10-BillionSeconds/</loc>
          <lastmod>2023-01-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
