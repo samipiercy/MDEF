@@ -15,5 +15,18 @@ During the week we imagined a day in the life of our future self, one billion se
 
 In learning about critical hope, for a group project we put together a presentation of a time capsule that was opened in 2054 and how our world might look differently if the world around us adopted principles of critical hope and regrowth. Our group thought about how there may be multiple seasons in the future, not just the traditional four. That the seasons would be dictated by things around us that we would need to pay more attention to, such as trees, the tide, and the temperature. We also imagined how education and our relationship with food might be different, and how nature in general would be more precious and integrated into daily life. 
 
+### Group Assignment: Time Capsule Presentation
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRh-iCJGii6zHYRcIqGsjryyd88R9pQk-h5pSbr2NkLgoZpnZC-N77cgh8_q4E0TPQ89UbzRO5QHiaq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+### Day in My Post-Tech Life 2050s
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrdoA7Stf4ev1p9FYnS7OhFFAhZHeW0iDmm1Tpegtig3nAytwYdZsNzEm-Pl3jQY2e9kfyKCurxo5w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+### A Letter from My Future Self
+
+
+
 Time Capsule we visited at Museo de la Ciencia CosmoCaixa
 ![IMG_5889](../images/2Term/IMG_5889.JPG)
