@@ -5,7 +5,7 @@ hide:
 
 # Remixing Materials
 
-### Material Naratives
+### Material Narratives
 
 The following is the assignment to look at three materials: one material around me, one from the references in class, and one ideal material. 
 
