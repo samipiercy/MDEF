@@ -7,7 +7,7 @@ hide:
 
 ### Reflection
 
-In the seminar Design for the Next Billion Seconds, we questioned what futures we wanted to remember one billion seconds from now. Some key takeaways that I had from the seminar was reframing what futures are, and how to look at it as a plural meaning of futures, rather than a singular future that we are all trying to get to. That we should view futures as a way for invention and imagination, rather than just prevention. 
+In the seminar Design for the Next Billion Seconds, we questioned what futures we wanted to remember one billion seconds from now. Some key takeaways that I had from the seminar was reframing what futures are, and how to look at it as a plural meaning of futures, rather than a singular future that we are all trying to get to. Futures can be viewed as a way for invention and imagination, rather than just prevention. We also learned about degrowth as a way to use less of the world's resoures and energies to put the interest of the planet over wealth and profits.
 
 We also learned about reframing design as a verb rather than a noun, that design is a practice that helps one make choices. These choices we are designing for are to create change systematically and not just solution-based. A quote that was shared with us by Eduardo Galeano said “I don't believe in charity. I believe in solidarity. Charity is so vertical. It goes from the top to the bottom. Solidarity is horizontal. It respects the other person. I have a lot to learn from other people.” This quote was meaningful to me because traditionally design is seen as a solution-based, top down approach where it can feel disconnected from who you are designing for. It is important to not see design as a sort of ‘charity’ that is just improving things around us, but rather that we are designing in solidarity with the world around us. 
 
@@ -25,8 +25,8 @@ In learning about critical hope, for a group project we put together a presentat
 
 
 ### A Letter from My Future Self
-
+![IMG_5887](../images/2Term/2_BillionSeconds/IMG_5887.JPG)
 
 
 Time Capsule we visited at Museo de la Ciencia CosmoCaixa
-![IMG_5889](../images/2Term/IMG_5889.JPG)
+![IMG_5889](../images/2Term/2_BillionSeconds/IMG_5889.JPG)
