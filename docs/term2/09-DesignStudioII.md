@@ -11,7 +11,7 @@ hide:
 This space was created at the end of Term 1, it shows connections and interventions during the first term. 
 ![Term1_DS](../images/2Term/1_DesignStudioII/Term1_DS.jpg)
 
-**Term 2 design space update**
+**Term 2 design space update:**
 An updated design space as I enter into Term 2. Connections and topics I want to further explore in term 2. 
 ![Term2_DS](../images/2Term/1_DesignStudioII/Term2_DS.jpg)
 
