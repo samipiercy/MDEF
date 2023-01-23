@@ -14,15 +14,15 @@ The following is the assignment to look at three materials: one material around 
 
 ![TeaBags](../images/2Term/3_RemixingMaterials/TeaBags.JPG)
 
-**Properties:** Nylon, paper, cotton string, resistant to heat, mesh properties, light weight, water resistant. Appears silky and “fancier,” emotions feel more elevated, the shape and material together make the item make you feel like it’s more than just a cup of tea. 
+**Properties:** Nylon, cotton string, resistant to heat, mesh properties, light weight, water resistant. Appears silky and “fancier,” emotions feel more elevated. The shape and material make the item seem like it is offering you a elevated experience for drinking tea. 
 
-**Description:** Mesh bag containing tea leaves, heat sealed together and tied onto cotton string. This particular tea bag is in a pyramid shape, which is marketed to allow tea leaves to brew better by having more surface area in the bag to expand. 
+**Description:** Mesh bag containing tea leaves, heat sealed together and sealed onto cotton string. This tea bag is designed as a pyramid, which is marketed to be better for tea leaves to brew because of the increased surface area. 
 
-**Story:** Tea bags were first claimed to be invented in 1904 in the US as a more convenient way to drink tea with easy cleanup and for single serving purposes. Teabags are made from nylon, PET, polypropylene, cotton or paper. Many paper tea bags have a lining of polypropylene inside, making them non-compostable. These filter papers are made with thermoplastics in order to make them thermosealing and have stronger fibers. 
+**Story:** Tea bags were invented in 1904 as a more convenient way to drink tea with easy cleanup and single serving purposes. Tea bags today are made from nylon, PET, polypropylene, cotton or paper. Many paper tea bags have a lining of polypropylene inside, making them non-compostable. These paper tea bags are made with thermoplastic fibers in order to make them thermosealing.
 
-Unfortunately having plastic in the tea bags makes it so your tea is filled with microplastics that are ingested with the tea. Microplastics from these type of materials are also in our oceans and landfills. 
+Unfortunately, these plastic tea bags casue thousands of microplastics to be in your tea. Microplastics are then ingested and also dumped down drains and into landfills. Most paper filters have plastic and cannot be composted. There is a large misconception that tea bags are biodegradable. Many tea bags are also glued or stapled onto the cotton string, makign those components non-compostable as well. 
 
-Thermosealing paper for tea bags patent: https://patents.google.com/patent/EP0380127A2/en
+Thermosealing paper for tea bags patent shows the combination of paper and plastic fibers woven together: https://patents.google.com/patent/EP0380127A2/en
 
 **Applications:**
 
@@ -40,11 +40,11 @@ https://time.com/3996712/a-brief-history-of-the-tea-bag/
 ![carolynraff_2](../images/2Term/3_RemixingMaterials/carolynraff_2.jpg)
 ![carolynraff_1](../images/2Term/3_RemixingMaterials/carolynraff_1.jpg)
 
-**Properties:**  Algae agar, cut into sequins for garments and textile, added onto linen-blended materials. The sequins are biodegradable, and able to have a variety of colors with added natural dyes. Gives an intriguing emotion with the natural but futuristic look of the material and variety of colors and textures.  
+**Properties:**  Algae agar, cut into sequins for garments and textile, added onto linen-blended materials. These sequins are biodegradable, and have a variety of colors with added natural dyes. It gives emotions of intrigue with the natural but futuristic look of the material with its variety of colors and textures.  
 
-**Description:** The shape and layering of the sequins give depth and movement. The translucent effect gives the sequins a lot of depth, with the mix of textured to glossy shimmers. 
+**Description:** The shape and layering of the sequins give depth and movement. The translucent effect gives the sequins a lot of depth, along with the mix of textured and glossy shimmers. 
 
-**Story:** Made by Carolyn Raff, who wanted to use materials from the ocean to show possibilities of what could be made from ocean-based materials. She wanted to make sustainable sequins made from a raw material. She used agar because it is readily available, can be manipulated easily, and can be mixed with other colors and materials. 
+**Story:** Made by Carolyn Raff, who wanted to use materials from the ocean to show possibilities of what could be made from ocean-based materials. She wanted to make sustainable sequins from a raw material. She used agar because it is readily available, can be manipulated easily, and can be mixed with other colors and materials. 
 
 **Applications:**
 
@@ -61,11 +61,11 @@ https://www.sourcegreen.co/food-packaging/10-seaweed-packaging-startups-algae/
 
 ![babymushie](../images/2Term/3_RemixingMaterials/babymushie.jpg)
 
-**Properties:** Flexible, waterproof, easy to sterilize/antibacterial, heat resistant, bouncy and durable. Can be made in multiple colors and formed easily into shapes and molds, has similar emotional properties of feeling healthier while being easy to clean. 
+**Properties:** Flexible, waterproof, easy to sterilize/antibacterial, heat resistant, bouncy and durable. Can be made in multiple colors and formed easily into shapes and molds, has similar emotional properties of silicone of feeling healthy and clean. 
 
-**Description:** This material is approachable by kids and their parents, because it can be molded into flexible shapes with a variety of colors. 
+**Description:** This material is approachable by kids and parents. It is easy to clean and can be molded into flexible shapes with a variety of colors. 
 
-**Story:** As babies and kids grow up the items around them do not need to last forever, since they are constantly evolving and needing different things. There is a lot of waste in toys and gear for kids, but also a lot of plastic that can be easily ingested. By having a biomaterial alternative it is healthier for the kids and the environment..
+**Story:** As babies and kids grow up the items around them do not need to last forever, since they are constantly evolving and needing different things. There is a lot of waste in toys and gear for kids, but also a lot of plastic that could be ingested. By having a biomaterial alternative it is healthier for the kids and the environment.
 
 **Applications:**
 
