@@ -32,8 +32,11 @@ https://www.robotique.tech/robotics/control-a-buzzer-by-the-esp32-card/
   </iframe>
 </div>
 
-### Reflection: 2D Design Tools 
+### Reflection: 2D, 3D Parametric Design Tools 
 
+Today we learned about the basics of parametric design with 2D and 3D software. The difference between CPU versus GPU and how they relate to the types of image processing needed to run certain programs. CPU allows for heavier mathematical equations and GPU can calculate many small equations. This relates to how vectors and pixels process information as well. Vector can scale without losing definition and is CPU processed, while Pixels are located on a x, y, z grid are GPU processed. Similarly to vectors and pixels, there are mesh versus nurbs, which are also distinguished by the type of processing. Mesh is defined by points and uses polygons, it is mostly used for STL 3D printing files, but is not good for scaling like pixels. Nurbs is used in surface modeling because it allows you to modify smooth and fluid shapes. 
+
+I have a lot of experience in 3D modeling with Solidworks and using Keyshot as a rendering software. I wanted to spend the day learning Rhino because it uses Nurbs and is good for modeling organic shapes. I mainly used Solidworks for surface modeling as well, but it is more difficult to make organic shapes. After using it for the day I realized that Rhino is easy to model quickly, however it is difficult to change past decisions because of the feature tree. There was a plate design with water ripples on it that I was trying to replicate. I worked with Paige to think about the shape we wanted to create, because it is something we found for inspiration for our Bio Deisgn Dinner group who is focusing on making tableware that has water elements. At first I drew the outlines of the ripples, but then found the pipe tool that allowed me to build off of some organic lines. I then added some fillets around the edges after combining the separate pieces. Through this exercise I was able to learn about scaling, fillets, manipulating lines and combining solid geometry. I would like to make another version that can be made into a mold that we can use to fill with biomaterial.
 
 Parametric Croissant 
 ![IMG_6304](../images/2Term/4_FabAcademy/IMG_6304.JPG)
