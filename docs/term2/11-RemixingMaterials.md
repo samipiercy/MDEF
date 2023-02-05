@@ -75,18 +75,21 @@ https://www.sourcegreen.co/food-packaging/10-seaweed-packaging-startups-algae/
 
 ### Material Exploration: Floral Waste
 
-As a group we picked floral waste as our local material. We collected discarded flowers and plants from local shops in Eixample and Poblenou. Our concept was to create a floral dinner experience that incorporated all the senses of cut flowers to allow them to live and “bloom” longer. To do this we experimented with different recipes and parts of the flowers, from making gelatin resin, incense, paper crockery, candle, and dyed fabrics. 
+As a group we picked floral waste as our local material. We collected discarded flowers and plants from local shops in Eixample and Poblenou. Some reasons for flowers to be discarded are because of they are too short for arrangements or they have some imperfections. Floral waste is also prevalent in weddings, cemeteries, and temple use. A majority of the floral industry is imported from areas of optimal climate conditions for growing, as well as Holand which produces a  majority of Europe's flowers. Our concept was to create a floral dinner experience that incorporated all the senses of cut flowers to allow them to live and “bloom” longer. To do this we experimented with different recipes and parts of the flowers, from making gelatin resin, incense, paper crockery, candle, and dyed fabrics. 
 
-Some difficulties in working with flowers is how fragile they are and the preparation needed to use them. Depending on the intended use, we needed to press, dry or use right away before they dried out. We mostly collected roses, mimosa, and eucalyptus. For dying fabrics it also takes time to prepare fabrics with mordants so they can absorb the dye well. The paper crockery was also very fragile because we wanted to have no additional additives besides the leaves and stems.
+Some difficulties in working with flowers is how fragile they are and the preparation needed to use them. Depending on the intended use, we needed to press, dry or use right away before they dried out. We mostly collected roses, mimosas, and eucalyptus. For dying fabrics it also takes time to prepare fabrics with mordants so they can absorb the dye well. The paper crockery was also very fragile because we wanted to have no additional additives besides the leaves and stems.
 
-In these few weeks we were able to experiment a lot with different recipes and make a first attempt at making plates, bowls, cups, candles, and tablecloths for a potential dinner experience. We tested 3 methods of dying fabric (vinegar mordant, alum mordant, pounding method). I enjoyed the process of focusing on one local material to experiment with and explore all the options it provides. 
+In these few weeks we were able to experiment a lot with different recipes and make a first attempt at making plates, bowls, cups, candles, and tablecloths for a potential dinner experience. We tested 3 methods of dying fabric (vinegar mordant, alum mordant, pounding method). I enjoyed the process of focusing on one local material to experiment with and explore all the options it provides. From working previously with food waste biomaterials, it was interesting to work with a different type of organic material. 
 
 **SWOT analysis:**
 
-**Strengths:** Beauty, color, smell, shape, emotionally bring joy  
+**Strengths:** Beauty, color, smell, shape, brings joy  
+
 **Weaknesses:** Fragile, short life cycle, variety depending on season
-**Opportunities:** Variety of plants to work with, variety of components from petals, leaves, stems
-**Threats:** Dry out easily, mold, properties quickly change
+
+**Opportunities:** Variety of plants to work with, variety of components from petals, leaves, and stems
+
+**Threats:** Dries out easily, mold, properties quickly change
 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
@@ -96,12 +99,12 @@ In these few weeks we were able to experiment a lot with different recipes and m
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFZQlGuaa8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFZQlGuaa8&#x2F;view?utm_content=DAFZQlGuaa8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"
+
 
 Photos of items together:
 ![IMG_6202](../images/2Term/3_RemixingMaterials/IMG_6202.JPG)
 ![IMG_6201](../images/2Term/3_RemixingMaterials/IMG_6201.JPG)
 ![IMG_6207](../images/2Term/3_RemixingMaterials/IMG_6207.JPG)
 
-Photos of mordant comparisons, on silk and cotton:
+Photos of mordant comparisons, on silk, linen and cotton:
 ![IMG_6260](../images/2Term/3_RemixingMaterials/IMG_6260.JPG)
