@@ -20,7 +20,9 @@ I was able to follow the ESP32 Feather diagram to hook up the positive to the GN
 
 Some resources I used:
 https://esp32io.com/tutorials/esp32-piezo-buzzer
+
 https://www.circuitbasics.com/how-to-use-active-and-passive-buzzers-on-the-arduino/
+
 https://www.robotique.tech/robotics/control-a-buzzer-by-the-esp32-card/
 
 
