@@ -7,7 +7,7 @@ hide:
 
 ## Week 1
 
-### Reflection: Electronics & Coding
+### Electronics & Coding
 
 During this course we learned about how to approach making a proof of concept using electronic boards. In order to start prototyping, the board is dependent on the size and capacity needed to power the desired functions. It is important to review the datasheet of your microcontroller to make sure that it has the appropriate memory and power. 
 
@@ -35,7 +35,7 @@ https://www.robotique.tech/robotics/control-a-buzzer-by-the-esp32-card/
   </iframe>
 </div>
 
-### Reflection: 2D, 3D Parametric Design Tools 
+### 2D, 3D Parametric Design Tools 
 
 Today we learned about the basics of parametric design with 2D and 3D software. The difference between CPU versus GPU and how they relate to the types of image processing needed to run certain programs. CPU allows for heavier mathematical equations and GPU can calculate many small equations. This relates to how vectors and pixels process information as well. Vector can scale without losing definition and is CPU processed, while Pixels are located on a x, y, z grid are GPU processed. Similarly to vectors and pixels, there are mesh versus nurbs, which are also distinguished by the type of processing. Mesh is defined by points and uses polygons, it is mostly used for STL 3D printing files, but is not good for scaling like pixels. Nurbs is used in surface modeling because it allows you to modify smooth and fluid shapes. 
 
@@ -50,7 +50,7 @@ Parametric Croissant
 
 ## Week 2
 
-### Reflection: 2D Fabrication (Laser, Vinyl)
+### 2D Fabrication (Laser, Vinyl)
 
 Today we learned about Laser and vinyl cutters and the components that make up these machines. A laser cutter is categorized as a CNC machine because it also uses a 3+ axis, and it uses subtractive methods to engrave, mark and cut. We learned about a variety of applications that can be used such as creating living hinges, molds, laminating, and soldering. I am interested in seeing how we can laser cut biomaterials and solder them in order to eliminate glues and stitching. We received a demo for using a vinyl cutter, where we saw an application of it for copper foil to create circuit shapes. Also it can be used as a drawing tool by swapping out the blade for a pen to create computer aided drawings. The cut vinyl can also be used as a simple screen print or masking. 
 
@@ -65,7 +65,7 @@ I decided to make a 2D mold in acrylic for molding biomaterials. Since most biom
 </div>
 
 
-### Reflection: Inputs & Outputs
+### Inputs & Outputs
 During this course we learned about inputs and outputs, and how we can use them to sense an environment. Depending on how we change the inputs, it can produce different outputs. For closed loop systems, the device can regulate its output and make decisions based on the new inputs around it without interference. We also learned about sensors and how they are being used in all our devices to collect data. Even if the sensor itself is cheap, the data that it is collecting holds the value. The companies now that own those data sets have the most power. An example of data collection through sensors is biometric data. This can be through collecting our heart rates and how our body might be reacting in certain environments. And also our biometric fingerprint, where they can detect our own personal movements of how your body and hands interact with a device through movement and gestures.  
 
 Our phones are collecting so much personal data and we are also freely giving access because they are addicting to use. This week instagram asked me to give access to all my photos and videos, and when I chose not to, it was very difficult to use the app without giving consent. When looking closer at what they want, it is for access to your microphone, camera, location and “depth” information. Even if you have control over what photos are being posted to the public, they have control over all your photos and are now part of their collective dataset. As well as any new data from the sensors on your phone. 
