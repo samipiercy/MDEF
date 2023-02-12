@@ -66,8 +66,16 @@ I decided to make a 2D mold in acrylic for molding biomaterials. Since most biom
 
 
 ### Reflection: Inputs & Outputs
+During this course we learned about inputs and outputs, and how we can use them to sense an environment. Depending on how we change the inputs, it can produce different outputs. For closed loop systems, the device can regulate its output and make decisions based on the new inputs around it without interference. We also learned about sensors and how they are being used in all our devices to collect data. Even if the sensor itself is cheap, the data that it is collecting holds the value. The companies now that own those data sets have the most power. An example of data collection through sensors is biometric data. This can be through collecting our heart rates and how our body might be reacting in certain environments. And also our biometric fingerprint, where they can detect our own personal movements of how your body and hands interact with a device through movement and gestures.  
 
+Our phones are collecting so much personal data and we are also freely giving access because they are addicting to use. This week instagram asked me to give access to all my photos and videos, and when I chose not to, it was very difficult to use the app without giving consent. When looking closer at what they want, it is for access to your microphone, camera, location and “depth” information. Even if you have control over what photos are being posted to the public, they have control over all your photos and are now part of their collective dataset. As well as any new data from the sensors on your phone. 
 
+For the exercise, I worked mostly on the LDR light sensor to be able to detect the amount of light in the room. I was able to modify the code to have less parameters so that the sensor would be mainly detecting dark or light, versus a spectrum of light. There was some difficulty getting the sensor to detect quickly. Since our ESP32 board is 3v and the Arduino is 5v, I tried using different ohm amounts for the resistor to see if it would read better. Below in the videos you can see that the sensor was detecting all the small variables from dim to very bright. We worked together to make another board have a switch to turn on and off the LED. We had difficulty running the code on each computer, so were unable to have them talk to each other. However they were able to work separately for the most part. 
+
+Some links I used:
+https://arduinogetstarted.com/tutorials/arduino-light-sensor?utm_content=cmp-true
+
+https://esp32io.com/tutorials/esp32-light-sensor
 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
