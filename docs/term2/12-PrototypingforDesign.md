@@ -47,3 +47,33 @@ Parametric Croissant
 3D model learning: Rhino
 ![IMG_6303](../images/2Term/4_FabAcademy/IMG_6303.jpg)
 ![3Dmodel-1](../images/2Term/4_FabAcademy/3Dmodel-1.jpg)
+
+## Week 2
+
+### Reflection: 2D Fabrication (Laser, Vinyl)
+
+Today we learned about Laser and vinyl cutters and the components that make up these machines. A laser cutter is categorized as a CNC machine because it also uses a 3+ axis, and it uses subtractive methods to engrave, mark and cut. We learned about a variety of applications that can be used such as creating living hinges, molds, laminating, and soldering. I am interested in seeing how we can laser cut biomaterials and solder them in order to eliminate glues and stitching. We received a demo for using a vinyl cutter, where we saw an application of it for copper foil to create circuit shapes. Also it can be used as a drawing tool by swapping out the blade for a pen to create computer aided drawings. The cut vinyl can also be used as a simple screen print or masking. 
+
+I decided to make a 2D mold in acrylic for molding biomaterials. Since most biomaterials need non-stick surfaces, I chose this material and a 5mm thickness so that there could be enough height for the mold. The outlined shape will be able to be filled as a mold, and the subtracted negative space can be used as a stencil or stamp. I created the file in Illustrator and for the machine we use Rhino for printing and preparing the file. There was some trouble shooting needed to be able to cut through the material thickness, it needed multiple passes because it was 5mm. Also in order to read the file, the program was having a difficult time reading the lines to cut. Overall we were able to cut successfully and gain more confidence in using Rhino, printing software, and the laser cutter. 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaXpFWVaM&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+
+### Reflection: Inputs & Outputs
+
+
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaNTcf8iM&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
