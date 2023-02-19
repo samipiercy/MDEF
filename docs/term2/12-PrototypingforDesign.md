@@ -41,14 +41,15 @@ Today we learned about the basics of parametric design with 2D and 3D software. 
 
 I have a lot of experience in 3D modeling with Solidworks and using Keyshot as a rendering software. I wanted to spend the day learning Rhino because it uses Nurbs and is good for modeling organic shapes. I mainly used Solidworks for surface modeling as well, but it is more difficult to make organic shapes. After using it for the day I realized that Rhino is easy to model quickly, however it is difficult to change past decisions because of the feature tree. There was a plate design with water ripples on it that I was trying to replicate. I worked with Paige to think about the shape we wanted to create, because it is something we found for inspiration for our Bio Deisgn Dinner group who is focusing on making tableware that has water elements. At first I drew the outlines of the ripples, but then found the pipe tool that allowed me to build off of some organic lines. I then added some fillets around the edges after combining the separate pieces. Through this exercise I was able to learn about scaling, fillets, manipulating lines and combining solid geometry. I would like to make another version that can be made into a mold that we can use to fill with biomaterial.
 
-Parametric Croissant 
-![IMG_6304](../images/2Term/4_FabAcademy/IMG_6304.JPG)
+**Explorations:**
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbBGjpdMk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
 
-3D model learning: Rhino
-![IMG_6303](../images/2Term/4_FabAcademy/IMG_6303.jpg)
-![3Dmodel-1](../images/2Term/4_FabAcademy/3Dmodel-1.jpg)
-
-## Week 2
 
 ### 2D Fabrication (Laser, Vinyl)
 
@@ -94,7 +95,8 @@ The documentation of our process can be found here:
 https://github.com/PaigePerill/gotaplatemold-
 
 
-*Project Explanation:*
+**Project Explanation:**
+
 For the micro challenge this week, our team worked together to create a biopress mold that could be used to produce a set of biomaterial plates quickly. These plates are to be used for our intervention of an ocean-themed dinner where the tableware and food courses are made of the same ingredients with a special focus on food waste and regenerative resources.
 
 We went through multiple rounds of iterations to figure out what type of mold and plate shapes we wanted to create. Originally we wanted to make a press that could have interchangeable parts to reduce the material impact that molds can create. Our objective was also to create a design that could be easily replicable by others, using just a laser cutter and screws. In order to create a successful 3D shape, we needed to iterate quickly to understand how we could use 2D prototyping to make a 3D object. We did this by iterating with cardboard and wood prototypes before cutting in acrylic. 
@@ -103,12 +105,13 @@ We wanted to make the most out of one mold, so we updated the design from one sh
 
 We also wanted to incorporate technology into our mold by using a humidity and temperature sensor. Since the material would be taken out of the mold before drying, we could use the sensor to regulate the environment that the materials are in. Eventually we would like to measure the humidity of the material itself. We were able to get the sensor to read the air humidity, but are still having difficulty connecting it to an LCD screen. We tried multiple screens, but need more power in order to have the contrast show up on the screen itself. 
 
-*Learnings:*
+**Learnings:**
+
 Some key learnings were that the press needed a significant amount of pressure to extract the excess material. Especially because calcium carbonate is a thick material with high viscosity. The screws we used were great to key the mold together, but we needed to use extra clamps to get the excess material out of the mold. 
 
 A positive was that we were able to take the plates of the mold after forming the shape while the material was still wet. This allows the possibility to produce a lot in a short time, versus 3d printing one plate at a time over a longer period of time. However the downside is the amount of material needed to make one mold. I would still like to find a way to make a mold with minimal plastics and materials that can be reused and reformed into new shapes.. If we can make molds from plaster or ceramics that would be an option for reusable mold materials. 
 
-*Process Photos:*
+**Process Photos:**
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
