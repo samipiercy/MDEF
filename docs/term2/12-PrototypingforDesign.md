@@ -121,3 +121,8 @@ A positive was that we were able to take the plates of the mold after forming th
   </iframe>
 </div>
 
+**Reference Links:**
+https://lastminuteengineers.com/esp32-i2c-lcd-tutorial/
+https://www.instructables.com/ESP32-How-to-Interface-LCD-With-ESP32-Microcontrol/
+https://www.electronicshub.org/esp32-dht11-tutorial/
+http://www.datasheetcafe.com/lcm1602c-datasheet-pdf/
