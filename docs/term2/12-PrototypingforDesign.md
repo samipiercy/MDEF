@@ -132,6 +132,20 @@ http://www.datasheetcafe.com/lcm1602c-datasheet-pdf/
 
 ### 3D Fabrication & Scanning
 
+Today we learned about a variety of 3D printing and scanning tools and techniques. We looked at the pros and cons between materials and types of 3D printing applications. One main takeaway was the infill being a big factor of weight, movement, and strength. The infill amount can be less as long as the bottom and top layers have an appropriate thickness. The object properties can be changed by the infill pattern, depending on how isotropic the pattern is. There should also be a balance between how fast the print is versus the amount of layers. As thinner layers can print faster, however with thicker layers you need less layers. For 3D scanning, meshes are created by calculating points in space. The high number of points, the higher the resolution is.
+
+The object I scanned was a crochet sphere I made using amigurumi, a Japanese technique for making 3D knit shapes. I wanted to see how different phone 3D scanners would be able to pick up the texture from the textile and organic shape. I tried multiple scanning apps such as Polycam, Captur3, and WIDAR. I tried with photos and LIDAR, however photo scanning was the most successful. Polycam had the most clear 3D mesh, however I used the mesh from Captur3 because they are a free program for downloading mesh. Next time I would like to capture it with better lighting and less shadows. Despite me using my phone and not a tripod, the software was still able to capture the object well.
+
+I will 3D print the object this week and show my results. 
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbs3uebCI&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
 
 
 ### Networking
