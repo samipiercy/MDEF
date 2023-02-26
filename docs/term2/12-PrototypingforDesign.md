@@ -126,3 +126,27 @@ https://lastminuteengineers.com/esp32-i2c-lcd-tutorial/
 https://www.instructables.com/ESP32-How-to-Interface-LCD-With-ESP32-Microcontrol/
 https://www.electronicshub.org/esp32-dht11-tutorial/
 http://www.datasheetcafe.com/lcm1602c-datasheet-pdf/
+
+
+## Week 4
+
+### 3D Fabrication & Scanning
+
+
+
+### Networking
+
+In this course we learned about what a network is, how they have been designed today and then created our own local network within our class. A network is when data is copied from one place to another, similar to a copy machine. The way they have been designed today has made it so there are multiple copies that are being sent all over the world, as most data is sent to California. Networks are helpful in doing multiple tasks at the same time and to send information quickly. However, when it comes to sending information locally, we are still sending it across multiple oceans or cities because it is how we have designed networks to be. If there were local networks for simple tasks, it would make more sense to have a collection of small networks. In the end the power goes to the companies that have the largest datasets and control over them. Even though these large companies are collecting this data, it does not mean it is necessarily diverse. 
+
+For our exercise, we first connected our ESP32 feather boards to the local wifi network where we could see our own messages being sent. We then connected to Victor’s IP address as our local server, where we could receive his message. After each of us connected individually to our local server, we could then be assigned to each other and were able to send messages to one another. This exercise helped illustrate the complexity between sending and receiving messages but also how on a small scale you are able to point to where your information is being stored directly. You have ownership over your own information and can choose to keep or delete it. There is a need to have everything stored on a cloud, a fear of losing your information even though most of it is forgotten about by us. Every year we are storing more and creating more information than ever before. Local networks are a good way to keep track of your own data, filter and keep only what is necessary. 
+
+The images below show the three stages of our exercise from connecting to the network, local server, and talking to each other locally.
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbrj4k844&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
