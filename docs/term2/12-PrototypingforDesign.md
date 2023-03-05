@@ -164,3 +164,28 @@ The images below show the three stages of our exercise from connecting to the ne
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFbrj4k844&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
+
+## Week 5
+
+### Interfaces
+
+This week we had a hands-on approach to understanding networking and interfaces through using LEDs with Arduino. We learned about a variety of ways to control LEDs through Arduino and the internet and slowly built complexity from directly controlling the LED to controlling it through the internet. Using the jled library, we could add different animations to the lights such as blinking, breathing, or burning like a candle. This library uses non-blocking which ensures that there is always a connection between the input and output.
+
+We first used blink code from Arduino to tell our LED to turn on. Next, we used code to send a message of “blink” in order to turn on the LED, and from there could change parameters to make it loop or respond to multiple types of messages such as “blinkfast” or “blinkslow.” Finally we connected our LED to a collective network that could be controlled by a dashboard that had options of speed and types of animation. From this dashboard, all the lights in our class could be controlled and synced together. 
+
+It was helpful having a slow graduation of steps for learning about the range of possibility of one thing such as LEDs. It felt approachable and understandable to focus on one type of function at a time and to work on each step individually and together as a class. 
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcKRuwIPY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+### CNC
+
+During this class we learned about the advantages of using CNC, the anatomy of how they work and a demo on using Rhino CAM to set up a file and simulation. CNC is one of the older technologies for subtractive processes. A main advantage is the consistency and accuracy that CNC can provide, since the material is homogenous and can be controlled through a variety of milling bits. One main difference with CNC than Laser cutting is that with milling bits, a fillet is created and it does not create sharp corners that could be needed for press fitting materials. Because of this, there are options of Dog Bone or T-Bone cuts to have enough overlap and strong connection for press fitting materials together. 
+
+To learn about CNC I will be making a heddle loom, and will write about the experience here following. 
