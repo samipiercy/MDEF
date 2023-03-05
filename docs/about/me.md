@@ -1,7 +1,4 @@
 # About
 
-![](../images/perezoso.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+Hello! I'm Sami, I am at MDEF to gain perspective from multiple disciplines and apply them in new methodologies towards current and future issues. My past experience is working as an Industrial Designer and I have developed products for multiple brands in the housewares industry. My interests are in finding sustainable and regenerative materials and bridging connections within communities through craft and resources. 
