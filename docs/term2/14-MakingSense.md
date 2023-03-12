@@ -5,7 +5,7 @@ hide:
 
 # Making Sense & Meaning
 
-The following reflections is in response to the questions given:
+The following reflections is in response to the learnings from this course through discussion and the questions given:
 
 * How can design reconfigure systems of extraction?
 
@@ -40,9 +40,9 @@ In terms of climate grief and immobilization, offering spaces of community creat
 
 Overall, there have been civilizations before us and there will be others after us. Nature is constant and offers many solutions to us as the ultimate teacher of care, diversity, and empathy. Design in an evolving world means embracing the complexity of the issues we face, encouraging grace and safety nets as we move forward with flexibility. Creating with others and striving for symbiotic relationships with nature and listening to local communities. Using the internet to foster creativity rather than isolation and division. With small flexible steps, we can face life and its challenges.  
 
-Reference:
+**Reference:**
 
-Bateson, Gregory. Steps to an Ecology of Mind. Chicago, University Of Chicago Press, 2000.⋅⋅⋅
+Bateson, Gregory. Steps to an Ecology of Mind. Chicago, University Of Chicago Press, 2000.
 
 Haraway, Donna. Staying with the Trouble: Making Kin in the Chthulucene. Durham (N.C.) ; London, Duke University Press, 2016.
 
