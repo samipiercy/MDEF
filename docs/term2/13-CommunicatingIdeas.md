@@ -6,5 +6,5 @@ hide:
 # Communicating Ideas
 
 
-![PersonalBrand](../images/2Term/5_CommunicatingIdeas/PersonalBrand.png)
-![PersonalBrand2](../images/2Term/5_CommunicatingIdeas/PersonalBrand2.png)
+![1PersonalBrand](../images/2Term/5_CommunicatingIdeas/1PersonalBrand.png)
+![1PersonalBrand2](../images/2Term/5_CommunicatingIdeas/1PersonalBrand2.png)
