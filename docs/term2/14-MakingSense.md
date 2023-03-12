@@ -6,9 +6,9 @@ hide:
 # Making Sense & Meaning
 
 The following reflections is in response to the questions given:
-..*How can design reconfigure systems of extraction?
-..*Which worlds can we design with the power of today’s tools?
-..*How can we design the transition towards these worlds?
+* How can design reconfigure systems of extraction?
+* Which worlds can we design with the power of today’s tools?
+* How can we design the transition towards these worlds?
 
 
 Looking at the world through a lens of design is a double edged sword. On one hand, design is a means of seeing opportunity for efficiency and can make our surroundings more inspiring visually and physically comfortable. However, it also comes from a source of individualism, can be disconnected from nature, and biased with a westernized perspective. In order to move from extraction to regeneration, we need new perspectives of design. First I will look at how systems of capitalism have brought us to where we are today and relate them to our current state of design. Exploring learnings from nature and offering alternative modes of thinking to reconfigure and provide alternative ways out. 
@@ -38,9 +38,10 @@ In terms of climate grief and immobilization, offering spaces of community creat
 Overall, there have been civilizations before us and there will be others after us. Nature is constant and offers many solutions to us as the ultimate teacher of care, diversity, and empathy. Design in an evolving world means embracing the complexity of the issues we face, encouraging grace and safety nets as we move forward with flexibility. Creating with others and striving for symbiotic relationships with nature and listening to local communities. Using the internet to foster creativity rather than isolation and division. With small flexible steps, we can face life and its challenges.  
 
 Reference:
-Bateson, Gregory. Steps to an Ecology of Mind. Chicago, University Of Chicago Press, 2000.
-Haraway, Donna. Staying with the Trouble: Making Kin in the Chthulucene. Durham (N.C.) ; London, Duke University Press, 2016.
-Moore, Jason W, and Raj Patel. HISTORY of the WORLD in SEVEN CHEAP THINGS : A Guide to Capitalism, Nature, and the Future Of... The Planet. S.L., Verso Books, 2018.
-Slavin, Kevin. “Design as Participation.” Journal of Design and Science, 24 Feb. 2016, https://doi.org/10.21428/a39a747c.
+
+⋅⋅⋅Bateson, Gregory. Steps to an Ecology of Mind. Chicago, University Of Chicago Press, 2000.⋅⋅⋅
+⋅⋅⋅Haraway, Donna. Staying with the Trouble: Making Kin in the Chthulucene. Durham (N.C.) ; London, Duke University Press, 2016.⋅⋅⋅
+⋅⋅⋅Moore, Jason W, and Raj Patel. HISTORY of the WORLD in SEVEN CHEAP THINGS : A Guide to Capitalism, Nature, and the Future Of... The Planet. S.L., Verso Books, 2018.⋅⋅⋅
+⋅⋅⋅Slavin, Kevin. “Design as Participation.” Journal of Design and Science, 24 Feb. 2016, https://doi.org/10.21428/a39a747c.⋅⋅⋅
 
 
