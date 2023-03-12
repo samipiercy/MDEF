@@ -6,8 +6,11 @@ hide:
 # Making Sense & Meaning
 
 The following reflections is in response to the questions given:
+
 * How can design reconfigure systems of extraction?
+
 * Which worlds can we design with the power of today’s tools?
+
 * How can we design the transition towards these worlds?
 
 
@@ -39,9 +42,12 @@ Overall, there have been civilizations before us and there will be others after 
 
 Reference:
 
-⋅⋅⋅Bateson, Gregory. Steps to an Ecology of Mind. Chicago, University Of Chicago Press, 2000.⋅⋅⋅
-⋅⋅⋅Haraway, Donna. Staying with the Trouble: Making Kin in the Chthulucene. Durham (N.C.) ; London, Duke University Press, 2016.⋅⋅⋅
-⋅⋅⋅Moore, Jason W, and Raj Patel. HISTORY of the WORLD in SEVEN CHEAP THINGS : A Guide to Capitalism, Nature, and the Future Of... The Planet. S.L., Verso Books, 2018.⋅⋅⋅
-⋅⋅⋅Slavin, Kevin. “Design as Participation.” Journal of Design and Science, 24 Feb. 2016, https://doi.org/10.21428/a39a747c.⋅⋅⋅
+Bateson, Gregory. Steps to an Ecology of Mind. Chicago, University Of Chicago Press, 2000.⋅⋅⋅
+
+Haraway, Donna. Staying with the Trouble: Making Kin in the Chthulucene. Durham (N.C.) ; London, Duke University Press, 2016.
+
+Moore, Jason W, and Raj Patel. HISTORY of the WORLD in SEVEN CHEAP THINGS : A Guide to Capitalism, Nature, and the Future Of... The Planet. S.L., Verso Books, 2018.
+
+Slavin, Kevin. “Design as Participation.” Journal of Design and Science, 24 Feb. 2016, https://doi.org/10.21428/a39a747c.
 
 
