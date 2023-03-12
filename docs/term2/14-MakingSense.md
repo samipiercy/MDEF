@@ -5,11 +5,11 @@ hide:
 
 # Making Sense & Meaning
 
-*The following reflections is in response to the learnings from this course through discussion, readings (referenced below), and the questions given:*
+*The following reflection is in response to the learnings from this course through discussion, readings (referenced below), and the questions given:*
 
-* How can design reconfigure systems of extraction?
-* Which worlds can we design with the power of today’s tools?
-* How can we design the transition towards these worlds?
+* *How can design reconfigure systems of extraction?*
+* *Which worlds can we design with the power of today’s tools?*
+* *How can we design the transition towards these worlds?*
 
 
 Looking at the world through a lens of design is a double edged sword. On one hand, design is a means of seeing opportunity for efficiency and can make our surroundings more inspiring visually and physically comfortable. However, it also comes from a source of individualism, can be disconnected from nature, and biased with a westernized perspective. In order to move from extraction to regeneration, we need new perspectives of design. First I will look at how systems of capitalism have brought us to where we are today and relate them to our current state of design. Exploring learnings from nature and offering alternative modes of thinking to reconfigure and provide alternative ways out. 
