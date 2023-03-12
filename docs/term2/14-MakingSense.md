@@ -5,12 +5,10 @@ hide:
 
 # Making Sense & Meaning
 
-The following reflections is in response to the learnings from this course through discussion and the questions given:
+*The following reflections is in response to the learnings from this course through discussion, readings (referenced below), and the questions given:*
 
 * How can design reconfigure systems of extraction?
-
 * Which worlds can we design with the power of today’s tools?
-
 * How can we design the transition towards these worlds?
 
 
