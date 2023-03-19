@@ -189,3 +189,36 @@ It was helpful having a slow graduation of steps for learning about the range of
 During this class we learned about the advantages of using CNC, the anatomy of how they work and a demo on using Rhino CAM to set up a file and simulation. CNC is one of the older technologies for subtractive processes. A main advantage is the consistency and accuracy that CNC can provide, since the material is homogenous and can be controlled through a variety of milling bits. One main difference with CNC than Laser cutting is that with milling bits, a fillet is created and it does not create sharp corners that could be needed for press fitting materials. Because of this, there are options of Dog Bone or T-Bone cuts to have enough overlap and strong connection for press fitting materials together. 
 
 To learn about CNC I will be making a heddle loom, and will write about the experience here following. 
+
+## Week 6
+
+### Micro Challenge II
+
+The document of our process can be found here:
+https://github.com/josephinebourghardt/SeaPollution
+
+**Project Explanataion**
+For this micro challenge, our group wanted to make tools for collecting microplastics at the beach. We have been volunteering with an organization that picks up trash found in the sand and in the rocks at a beach in Barceloneta. While we have been there we noticed how many small plastic pieces were in the sand. Although we pick them up one by one, they get tossed in the general trash and we are unable to know how much is collected or see what could be used with them once collected. We have been prototyping with different nets but wanted a way to visualize the amount of plastic taken, a way to weigh them, and an easy to carry tool to be used at the beach. We designed a series of boxes that have interchangeable nets that allow for different sizes of plastic to fall between each layer. There is also a scale that we made using a load cell and sensor with Arduino. Lastly, we used the CNC to design a hand held tool where nets can also be switched out. 
+
+**Learnings**
+After making these tools we brought them to the beach to be tested. We learned that the CNC hand held tool is approachable however needs some modification to be able to scoop and be thinner on one side. For the boxes, they need to have mesh that is slightly larger than the smallest size mesh we had. We realized it was difficult to separate the rocks from the plastic, and still requires a human eye to make the distinction. We would like to try to separate plastic from natural materials with salt water next. The clear boxes did make a great display when dumping all the microplastics we had collected and separating out the small from larger ones. Some feedback we got from our presentation was that there could be vibration added to help with shaking each layer. Also that we could have a mesh bag to carry so the sand would easily fall out while collecting.  
+
+**Process Photos**
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFdrKGgJAQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+**Testing Prototype at the Beach**
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFdrUg6EMs&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+
