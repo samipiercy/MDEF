@@ -188,7 +188,19 @@ It was helpful having a slow graduation of steps for learning about the range of
 
 During this class we learned about the advantages of using CNC, the anatomy of how they work and a demo on using Rhino CAM to set up a file and simulation. CNC is one of the older technologies for subtractive processes. A main advantage is the consistency and accuracy that CNC can provide, since the material is homogenous and can be controlled through a variety of milling bits. One main difference with CNC than Laser cutting is that with milling bits, a fillet is created and it does not create sharp corners that could be needed for press fitting materials. Because of this, there are options of Dog Bone or T-Bone cuts to have enough overlap and strong connection for press fitting materials together. 
 
-To learn about CNC I will be making a heddle loom, and will write about the experience here following. 
+On the CNC we made the sand sieve and had a step down so that we could place different meshes inside. The shape was inspired by a padel and we have two so we can test out the different sizes. After CNC, we were able to fit in different sizes of mesh and cut an extra piece to secure down the nets. Below are the images of the design process and wooden sieve. 
+
+I am planning to CNC a heddle loom with Amanda based off of the one made here: https://kelliead.github.io/assignment8.html
+We are finishing up the file and modifying the existing design which was done on laser cut and making it for CNC. We will be adding dowels and a step onto the side "sleigh" pieces, so that the dowels can keep in place. Below are the files we are preparing to cut.  
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFdrSdnG9U&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
 
 ## Week 6
 
