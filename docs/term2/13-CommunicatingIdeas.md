@@ -6,11 +6,13 @@ hide:
 # Communicating Ideas
 
 
+### Personal Branding:
+
 ![1PersonalBrand](../images/2Term/5_CommunicatingIdeas/1PersonalBrand.png)
 ![1PersonalBrand2](../images/2Term/5_CommunicatingIdeas/1PersonalBrand2.png)
 
 
-# Communication Plans 
+### Communication Plans 
 
 Here is a plan for different stakeholders in relation to the beach clean up interventions.
 
