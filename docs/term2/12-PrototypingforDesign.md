@@ -191,6 +191,7 @@ During this class we learned about the advantages of using CNC, the anatomy of h
 On the CNC we made the sand sieve and had a step down so that we could place different meshes inside. The shape was inspired by a padel and we have two so we can test out the different sizes. After CNC, we were able to fit in different sizes of mesh and cut an extra piece to secure down the nets. Below are the images of the design process and wooden sieve. 
 
 I am planning to CNC a heddle loom with Amanda based off of the one made here: https://kelliead.github.io/assignment8.html
+
 We are finishing up the file and modifying the existing design which was done on laser cut and making it for CNC. We will be adding dowels and a step onto the side "sleigh" pieces, so that the dowels can keep in place. Below are the files we are preparing to cut.  
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
@@ -209,13 +210,16 @@ We are finishing up the file and modifying the existing design which was done on
 The document of our process can be found here:
 https://github.com/josephinebourghardt/SeaPollution
 
-**Project Explanataion**
+**Project Explanation:**
+
 For this micro challenge, our group wanted to make tools for collecting microplastics at the beach. We have been volunteering with an organization that picks up trash found in the sand and in the rocks at a beach in Barceloneta. While we have been there we noticed how many small plastic pieces were in the sand. Although we pick them up one by one, they get tossed in the general trash and we are unable to know how much is collected or see what could be used with them once collected. We have been prototyping with different nets but wanted a way to visualize the amount of plastic taken, a way to weigh them, and an easy to carry tool to be used at the beach. We designed a series of boxes that have interchangeable nets that allow for different sizes of plastic to fall between each layer. There is also a scale that we made using a load cell and sensor with Arduino. Lastly, we used the CNC to design a hand held tool where nets can also be switched out. 
 
-**Learnings**
+**Learnings:**
+
 After making these tools we brought them to the beach to be tested. We learned that the CNC hand held tool is approachable however needs some modification to be able to scoop and be thinner on one side. For the boxes, they need to have mesh that is slightly larger than the smallest size mesh we had. We realized it was difficult to separate the rocks from the plastic, and still requires a human eye to make the distinction. We would like to try to separate plastic from natural materials with salt water next. The clear boxes did make a great display when dumping all the microplastics we had collected and separating out the small from larger ones. Some feedback we got from our presentation was that there could be vibration added to help with shaking each layer. Also that we could have a mesh bag to carry so the sand would easily fall out while collecting.  
 
-**Process Photos**
+**Process Photos:**
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -224,7 +228,8 @@ After making these tools we brought them to the beach to be tested. We learned t
   </iframe>
 </div>
 
-**Testing Prototype at the Beach**
+**Testing Prototype at the Beach:**
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
