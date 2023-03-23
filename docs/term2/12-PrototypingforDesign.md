@@ -190,9 +190,9 @@ During this class we learned about the advantages of using CNC, the anatomy of h
 
 On the CNC we made the sand sieve and had a step down so that we could place different meshes inside. The shape was inspired by a padel and we have two so we can test out the different sizes. After CNC, we were able to fit in different sizes of mesh and cut an extra piece to secure down the nets. Below are the images of the design process and wooden sieve. 
 
-I am planning to CNC a heddle loom with Amanda based off of the one made here: https://kelliead.github.io/assignment8.html
+Amanda and I made the frame of a heddle loom on CNC based off an open sourced one made here: https://kelliead.github.io/assignment8.html
 
-We are finishing up the file and modifying the existing design which was done on laser cut and making it for CNC. We will be adding dowels and a step onto the side "sleigh" pieces, so that the dowels can keep in place. Below are the files we are preparing to cut.  
+We were able to modify the open source design and make the changes they proposed, since the original design was done with laser cutting. With the CNC we were able to make pockets which make the design more sturdy. We attached dowels and 3d printed parts with a spring that make a ratchet for the turning of the dowels. Overall the two side parts came out well. We used two sizes of drill bits 4mm and 6mm. The 4mm was used to make holes to secure the 15mm piece of wood down and then used as a peck drill to slowly make the small holes for the 3d printed parts. Next, we switched to the 6mm bit to make the pockets and cutout the outline of the design. It was helpful to see the simulation before cutting and understand the order of operation. 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
