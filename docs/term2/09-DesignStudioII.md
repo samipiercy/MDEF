@@ -61,3 +61,18 @@ This is relevant to my project because we are looking at how we can intervene in
 **Generalisability.** Can it be meaningful to others? What kind of profile is the one which I am looking at?
 
 It could be meaningful to others to bring more awareness of the amount of plastic and waste that they are consuming and throwing out. It also is meaningful to have people think about how convenience is driving so much of our choices and has an impact on the environment.  
+
+
+### Alternative Presents:
+
+**Intervention: Playa x Plastic**
+
+![Alt_beach](../images/2Term/1_DesignStudioII/Alt_beach.jpg)
+
+**Intervention: Future Cravings Dinner**
+
+![Alt_dinner](../images/2Term/1_DesignStudioII/Alt_dinner.jpg)
+
+**Intervention: Crafting Community**
+
+![Alt_craft](../images/2Term/1_DesignStudioII/Alt-craft.jpg)
