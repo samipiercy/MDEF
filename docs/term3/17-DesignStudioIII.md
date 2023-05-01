@@ -5,5 +5,12 @@ hide:
 
 # Design Studio III
 
-### Intervention Proposal
+### Intervention Proposals
+
+*Playa x Plastic (Beach Clean)*
+
+
+
+
+*Crafting Community*
 
