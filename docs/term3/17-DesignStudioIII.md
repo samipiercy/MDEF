@@ -45,6 +45,7 @@ Role: Communicating with communities and organizations working with textile wast
 Jana and Roger lead us in understanding five ways of drifting as a tool to understand how we have progressed through our projects and interests. These five are accumulative, comparative, serial, probing, and expansive. Throughout this masters I was in a comparative and probing state. I started with general interests and topics and continued to find overlapping and connections between interventions and projects. In this way I felt like I was looking at similar ideas from multiple perspectives. In this there were also aspects of probing in experimenting and following down paths as they emerged from one another. In this experimentation I was able to try things and see if I would like to continue down the path or not, shifting back my main interests with new perspectives.
 
 
+
 ### 5 ways of Scaling
 
 **Crafting Community**
@@ -77,3 +78,10 @@ Jana and Roger lead us in understanding five ways of drifting as a tool to under
 
 **Type of Structure:** Co-op/Collective, under the name of Future Cravings as an entity we invite and can be comissioned for our services. In the future we plan to charge participants a fee for the dinners 
 because of the cost of operation. Within this collective we each contribute our skills and roles to it to put on the events together. 
+
+
+
+### Updated Design Space III
+![Term3Space](../images/3Term/Term3Space.jpg)
+
+This is my final design space to end the last term, where categories of interests remained but evolved. Collaborators and organizations that were involved in final interventions of the last two terms have been added alongside the green intervention bubbles. Compared to the end of the second term, waste recirculation and craftivism took on bigger roles as they were central to each project and intervention. From making biomaterial tableware, sorting microplastics, to collecting and upcycling textile waste. Climate conscience and action remained an overarching theme when looking at circular economies and local material recirculation. Material literacy is also added onto this space because the importance of understanding what things are made from and how they are disposed is central to material recirculation and propositions for new uses of waste material. Displacement of people remains part of my space because climate change directly impacts vulnerable populations. It is crucial to look at non-western futures and how it disproportionately affects populations and people through climate crises. Lastly, co-creation as part of craftivism played a key role in my design space and it is how I want to design moving forward. This term for each intervention I tried to be critical about my role as a designer, how I can facilitate with others and listen in order to create possible futures together. 
