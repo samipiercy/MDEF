@@ -40,7 +40,40 @@ A space where people can slow down and make together, combating isolation, perfe
 Role: Communicating with communities and organizations working with textile waste. Prototype and making of weaving tools and experimentation second hand textiles.
 
 
+### Ways of Drifting
+
+Jana and Roger lead us in understanding five ways of drifting as a tool to understand how we have progressed through our projects and interests. These five are accumulative, comparative, serial, probing, and expansive. Throughout this masters I was in a comparative and probing state. I started with general interests and topics and continued to find overlapping and connections between interventions and projects. In this way I felt like I was looking at similar ideas from multiple perspectives. In this there were also aspects of probing in experimenting and following down paths as they emerged from one another. In this experimentation I was able to try things and see if I would like to continue down the path or not, shifting back my main interests with new perspectives.
+
+
+### 5 ways of Scaling
+
+**Crafting Community**
+
+**Why:** To create inclusive spaces for communities to craft together, focused but not constrained to textile and fibers. These spaces are multigenerational and gender inclusive that have a focus on circular economies in how materials are obtained and used in the spaces. 
+
+**What:** Meetups that are community led (Unfinished Object Meetups), workshops, collected online resources and content, open-source resources for diy tool making. 
+
+**Who:** Anyone who is interested in learning crafting, is not limited to socio-economic status or gender. Experts or hobbyists who want to share knowledge. 
+
+**Where:** In local spaces, online sharing, online community, local diy meetups 
+
+**When:** Weekly, monthly
+
+**Type of Structure:** Collective/Network, being connected online in multiple countries but established through small local communities. Amanda and I would like to create a basic structure that people can follow to create their own crafting communities easily. Through an online collective network we can share our findings as a larger community, share resources, and learnings. 
 
 
 
+**Future Cravings**
 
+**Why:** Methodology for climate action that brings together an interdisplinary crowd around a specific subject. As a group we explore and develop biomaterial recipes for tableware and create immersive installations. 
+
+**What:** Dinners, exhibits, immersive experiences
+
+**Who:** Designers, artists, charity leads, businesses 
+
+**Where:** Starting in Europe, with possibility to grow globally
+
+**When:** Twice a year or quarterly
+
+**Type of Structure:** Co-op/Collective, under the name of Future Cravings as an entity we invite and can be comissioned for our services. In the future we plan to charge participants a fee for the dinners 
+because of the cost of operation. Within this collective we each contribute our skills and roles to it to put on the events together. 
