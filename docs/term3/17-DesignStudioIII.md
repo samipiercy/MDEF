@@ -17,6 +17,11 @@ From the learnings of last term our proposal for an intervention is to collabora
 We have been building weaving tools from open source designs, and collecting secondhand clothing to use as material. We have also been creating time to share and craft with others to promote non-productive creative spaces and to share knowledge with others. For our proposal, we would like to create an event that offers a community dye bath where community members can bring items they would like to re-fresh and give a new life to. During this event we also would like to have a small panel to talk about textiles and the sources of material. In general the event is to bring awareness to mixed textiles and the issues they are causing, sharing ways to resuse and upcycle, and to create an accessible craft event. 
 
 
+*Future Cravings*
+
+Our intervention proposal is a continuation from our first Sea Pollution themed dinner. We are continuing the theme of sea pollution but into an immersive installation and cocktail hour. It will be called, “A Cocktail with the Sea” and bring together people of a variety of backgrounds and perspectives where the visuals, sound, and facilitation is around sea pollution. Through an immersive experience we hope participants can engage with the subject of sea pollution in a new way that prompts for climate action. In creating an immersive experience we are taking familiar items such as plastic bottles and hanging them in an interactive mobile that mimics movement of the sea. The tables are also made from melted recycled plastic bottle lids. As participants arrive they are put in an unknown state by entering a dark space, throughout the time the space will slowly light as we “move” up the five layers of the sea. The prompts on the table also ask questions that relate to each layer of the sea. The aim for this intervention is to create an experience that taps into the different senses and state of participants.
+
+
 ### Alternative Presents 
 
 *Updated Alternative Presents:*
